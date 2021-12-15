@@ -1,6 +1,4 @@
-# Backend Personal
-
-#### Boilerplate repository for Lectrum Backend Personal.
+# Rabbit Online Store API
 
 #### Перед запуском проекта:
 
